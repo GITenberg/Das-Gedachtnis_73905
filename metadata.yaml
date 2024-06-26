@@ -1,0 +1,26 @@
+_repo: Das-Gedachtnis_73905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Müller, Alfred Leopold
+    gutenberg_agent_id: '57269'
+    url: http://www.gutenberg.org/2009/agents/57269
+description: ''
+gutenberg_issued: '2024-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73905'
+language: de
+pgterms:marc905: 20180104073657mller
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aStuttgart :$bKosmos, Gesellschaft der Naturfreunde/Franckh''sche
+  Verlagshandlung, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Das Gedächtnis
+url: http://www.gutenberg.org/ebooks/73905
