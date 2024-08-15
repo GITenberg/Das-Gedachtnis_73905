@@ -1,11 +1,16 @@
 _repo: Das-Gedachtnis_73905
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73905-h/images/cover.jpg
 creator:
   author:
     agent_name: Müller, Alfred Leopold
     gutenberg_agent_id: '57269'
     url: http://www.gutenberg.org/2009/agents/57269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73905#Das-Gedachtnis
 gutenberg_issued: '2024-06-24'
 gutenberg_type: Text
 identifiers:
